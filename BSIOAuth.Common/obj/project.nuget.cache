@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "AWGA48q1I0QYDZ6ngrkuCDV8NC8obuCuDKrVJmVuWuz14mPZnyeJwnBx6ZDXNgeseeI6L2Pm37jrLdsLuZQvHA==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/BSIOAuth/BSIOAuth.Common/BSIOAuth.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/serilog.extensions.logging/7.0.0-dev-10346/serilog.extensions.logging.7.0.0-dev-10346.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/serilog.formatting.compact/2.0.0/serilog.formatting.compact.2.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/serilog.sinks.periodicbatching/4.0.0-dev-00821/serilog.sinks.periodicbatching.4.0.0-dev-00821.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/serilog.sinks.seq/7.0.0-dev-00276/serilog.sinks.seq.7.0.0-dev-00276.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/swashbuckle.aspnetcore.annotations/6.5.0/swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

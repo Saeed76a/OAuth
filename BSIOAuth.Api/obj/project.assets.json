@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BSIOAuth.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BSIOAuth.Domains": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BSIOAuth.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSIOAuth.Application.dll": {}
+        }
+      },
+      "BSIOAuth.Domains/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BSIOAuth.Domains.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BSIOAuth.Domains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSIOAuth.Application/1.0.0": {
+      "type": "project",
+      "path": "../BSIOAuth.Application/BSIOAuth.Application.csproj",
+      "msbuildProject": "../BSIOAuth.Application/BSIOAuth.Application.csproj"
+    },
+    "BSIOAuth.Domains/1.0.0": {
+      "type": "project",
+      "path": "../BSIOAuth.Domains/BSIOAuth.Domains.csproj",
+      "msbuildProject": "../BSIOAuth.Domains/BSIOAuth.Domains.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BSIOAuth.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ahmadhfr/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ahmadhfr/Desktop/work/BSIOAuth/BSIOAuth.Api/BSIOAuth.Api.csproj",
+      "projectName": "BSIOAuth.Api",
+      "projectPath": "/Users/ahmadhfr/Desktop/work/BSIOAuth/BSIOAuth.Api/BSIOAuth.Api.csproj",
+      "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
+      "outputPath": "/Users/ahmadhfr/Desktop/work/BSIOAuth/BSIOAuth.Api/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/sdk/7.0.311/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/ahmadhfr/Desktop/work/BSIOAuth/BSIOAuth.Application/BSIOAuth.Application.csproj": {
+              "projectPath": "/Users/ahmadhfr/Desktop/work/BSIOAuth/BSIOAuth.Application/BSIOAuth.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
